@@ -5,11 +5,12 @@
 
 <a href="https://www.linkedin.com/in/jaskirat0441/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:singhjaskirat862@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!-- <a href="https://docs.google.com/document/d/15ej4J9ERnGbCKUgiYHkarIHOpEqubcLgcbJTCjnwQB4/edit#"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a> -->
+<a href="https://drive.google.com/file/d/1i9Biq-fJULY48zqF9PdKhPZE_kIYEj2m/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 ## 🙋‍♂️ About Me
+- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.** 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -23,8 +24,7 @@
 <img height=25 src="https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=&logoColjavaor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="25"/>&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%#7377ad">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;<br>
 
 #### **Frameworks, Platforms and Libraries**:
@@ -36,11 +36,11 @@
 <img height=25 src="https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 
 #### **DevOps & Cloud Tools**:
-<p align="center">
+
 <img height=25 src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
-</p>
+<img height=25 src="https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=%#7377ad">&nbsp;&nbsp;
 
 ## 📈 Stats
 <p align="center">
